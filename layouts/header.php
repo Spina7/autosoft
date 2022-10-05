@@ -24,7 +24,7 @@
             <div class="container-fluid d-grid gap-3 align-items-center" style="grid-template-columns: 1fr 2fr;">
                 <div>
                     <a href="/" class="d-flex align-items-center mb-2 mb-lg-0 text-dark text-decoration-none">
-                        <img src="https://orbislogistics.com.mx/wp-content/uploads/2021/09/LOGO@2x.png" width="150">
+                        <h1 class="title">AutoSoft</h1>
                     </a>
                 </div>
                 <div class="d-flex align-items-center">

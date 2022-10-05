@@ -14,7 +14,7 @@ if ($session->isUserLoggedIn(true)) {
 
 
             <form method="post" action="auth.php" class="login">
-                <img class="mb-4" src="https://orbislogistics.com.mx/wp-content/uploads/2021/09/LOGO@2x.png" alt="" width="200">
+                <h1 class="h1 mb-3 title">AutoSoft</h1>
                 <h1 class="h3 mb-3 fw-normal">Bienvenido</h1>
                 <div class="form-floating">
                     <input type="name" class="form-control" name="username" placeholder="name@example.com">
@@ -25,7 +25,7 @@ if ($session->isUserLoggedIn(true)) {
                     <label for="Password">Contraseña</label>
                 </div>
                 <button class="w-100 btn btn-lg btn-primary" type="submit">Entrar</button>
-                <p class="mt-5 mb-3 text-muted">Orbis Logistics Solutions &copy; 2022</p>
+                <p class="mt-5 mb-3 text-muted">AutoSoft &copy; 2022</p>
             </form>
         </div>
     </main>
